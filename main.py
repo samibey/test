@@ -1,2 +1,2 @@
-print("hello AI world!")
+print("hello GIT world!")
 
